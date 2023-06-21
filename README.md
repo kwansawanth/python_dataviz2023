@@ -6,7 +6,7 @@ KKU Basic Programming for data science and data visualization
 ### Grading
 A  = top 10-15 คน<br> 
 B+ ถึง F ตามเกณฑ์ <br>
--Homework (Group/1person) 25%     <br> 
+-Homework (Random Group/1person) 25%     <br> 
 -Quiz  10%   <br> 
 -Project(Group choose by ourself)  30%    <br>
 -Midterm 15%  <br>
