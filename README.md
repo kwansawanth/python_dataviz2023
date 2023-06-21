@@ -1,5 +1,14 @@
 # python_dataviz2023
-# SC663401 Basic Programming for data science and data visualization
+KKU Basic Programming for data science and data visualization
 > นางสาวขวัญสวรรค์ ทองประเสริฐ รหัสนักศึกษา 643020498-9 
 
 > SC-Sids
+### Grading
+A  = top 10-15 คน<br> 
+B+ ถึง F ตามเกณฑ์ <br>
+-Homework (Group/1person) 25%     <br> 
+-Quiz  10%   <br> 
+-Project(Group choose by ourself)  30%    <br>
+-Midterm 15%  <br>
+-Final(Random Group)  20%  <br>
+-Final = Score*Attendance
