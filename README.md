@@ -1,7 +1,8 @@
 # python_dataviz2023
 KKU Basic Programming for data science and data visualization
-> นางสาวขวัญสวรรค์ ทองประเสริฐ รหัสนักศึกษา 643020498-9 
-
+> นางสาวขวัญสวรรค์ ทองประเสริฐ รหัสนักศึกษา 643020498-9
+>
+> กลุ่ม เด้งเด้งเด้ง ต้องเด้งไปข้างหน้า
 > SC-Sids
 ### Grading
 A  = top 10-15 คน<br> 
